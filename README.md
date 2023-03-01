@@ -42,6 +42,7 @@ import File3
 print(File3.f33)
 ```
 
+### 3. File in the parent directory but taking cd ..
 ![image](https://user-images.githubusercontent.com/80549753/222135458-87f76004-cda6-4b9f-895a-90c793116c2f.png)
 
 ```python
